@@ -1,15 +1,14 @@
-# 🎮 More&Better
+<div align="center">
 
-**More&Better**는 고퀄리티 마인크래프트 콘텐츠를  
-**저렴한 가격**에 제공하는 커뮤니티 중심의 디스코드 서버입니다.
+<img src="https://avatars.githubusercontent.com/u/209259250" width="200" />
 
-## ✨ 주요 특징
-- 🛒 다양한 마인크래프트 상품 제공  
-- 🤝 파트너십 및 협업 기회  
-- 🎁 가입시 200개 이상의 무료 도트 리소스 제공  
-- 🧩 초보자도 함께 성장할 수 있는 도움 요청 채널 운영  
-- 💬 자유로운 커뮤니티 소통 공간 제공  
+# MORE&BETTER
+*- 더 나은 게임 개발 리소스를+ 만듭니다. -*
 
-지금 바로 참여해서 더 많은 혜택을 경험해 보세요!
+[![](https://img.shields.io/badge/WEBSITE-https://morebetter.co.kr-green)](https://morebetter.co.kr)
+[![](https://img.shields.io/badge/E--MAIL-team@morebetter.co.kr-blue)](mailto:team@morebetter.co.kr)
+[![](https://img.shields.io/badge/DISCORD-nYh3eCFfrB-orange)](https://discord.com/invite/nYh3eCFfrB)
 
-👉 [디스코드 서버 참여하기](https://discord.gg/uNcADBt3Kb)
+* * *
+
+</div>
